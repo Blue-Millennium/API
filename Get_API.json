@@ -1,6 +1,6 @@
 {
     "update_url": "",
-    "api_url": "https://api.suya.blue-millennium.fun/Check_Version.json",
+    "api_url": "https://api.suya.blue-millennium.fun/Suya_Update_API.json",
     "announcement_url": "",
     "important_notice_url": ""
 }

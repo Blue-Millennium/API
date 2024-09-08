@@ -1,5 +1,5 @@
 {
-    "self_unzip_able": "False",
+    "self_unzip_able": false,
     "version_123": "v0.0.0.0",
     "url_123": "",
     "version_onedrive": "v0.0.0.0",
@@ -8,6 +8,6 @@
     "version_alist": "v0.0.0.0",
     "url_alist_origin": "",
     "url_alist_direct": "",
-    "debug_tag": "False",
+    "debug_tag":false,
     "debug_url": "https://tpod14077-my.sharepoint.com/personal/gong1gong4_tpod14077_onmicrosoft_com/_layouts/52/download.aspx?share=EXqo0c34Z95JhW8QmBEJ0VoBZAKon0Z4DyBZnMa2OZyY6g"
 }
